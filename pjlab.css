@@ -1,0 +1,17 @@
+html,body{
+    height: 100%;
+    background-image: url("back_img.jpg");
+    background-size: cover;
+}
+    
+.container{
+    height: 100%;
+    align-content: center;
+}
+    
+.card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+}
